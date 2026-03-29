@@ -1,9 +1,11 @@
+Assignment Instructions:
+
 1. On your local device, create a destination folder titled 'devops assignment 1'
 2. Fork the assignment repository onto your GitHub account.
 3. In the destination folders terminal, clone your assignment repository. Once it is on your local device, you will see the cloned repo appear as a subfolder within the destination.
 3. Within the subfolder, you will see the repository files.
 
-TASKS:
+Tasks:
 
 1. Add the original assignment repository as the upstream. 
 2. Create a branch with your rollnumber (avoid spaces and dashes) eg. branch name: F2023123. You will be working on this branch for your assignment.
