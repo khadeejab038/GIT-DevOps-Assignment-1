@@ -1,10 +1,8 @@
-Solve the following questions:
-
 1. What is the decimal value of Pi (upto five decimal points)
-Ans:
+Ans: 3.14159
 
 2. 9 + 10
-Ans:
+Ans: 19
 
 3. 13/5 + 14/2
-Ans:
+Ans: 2.6 + 7 = 9.6
