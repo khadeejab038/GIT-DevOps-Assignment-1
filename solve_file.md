@@ -4,8 +4,7 @@ Solve the following questions:
 Ans: 3.14159
 
 2. 9 + 10
-Ans: = 19
+Ans:  19
 
 3. 13/5 + 14/2
-Ans: =2.6+7
-= 9.6
+Ans: 2.6+7 = 9.6
